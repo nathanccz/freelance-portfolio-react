@@ -23,7 +23,7 @@ const Contact = ({ data }) => {
       [name]: value,
     }));
   };
-
+  {/*
   const onSubmit = async (event) => {
     event.preventDefault();
     setLoading(true);
@@ -46,7 +46,7 @@ const Contact = ({ data }) => {
       setFormData({ name: "", email: "", subject: "", message: "" });
       setLoading(false)
     }
-  };
+  };{*/}
   return (
     <section
       id="contact"
@@ -100,13 +100,13 @@ const Contact = ({ data }) => {
                 <h4>{contactForm.title}</h4>
                 <p>{contactForm.text}</p>
               </div>
-              <form onSubmit={onSubmit} id="contact-form" method="POST">
+              <form id="contact-form" method="POST" netlify>
                 <input type="hidden" name="from_name" value="Lilon Macwan" />
                 <input type="hidden" name="replyto" value="custom@gmail.com" />
                 <div className="row gx-3 gy-4">
                   <div className="col-md-6">
                     <div className="form-group">
-                      <label className="form-label">First name</label>
+                      <label className="form-label">Your name</label>
                       <input
                         name="name"
                         id="name"

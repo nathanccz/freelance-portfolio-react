@@ -8,7 +8,7 @@
     "subTitle": "<span>Software engineer</span> based </br> in <span>Los Angeles, CA</span>",
     "ImgLink": "/images/home-banner.jpg",
     "phone": "+123 45 666 7788",
-    "email": "nathanccz.dev@gmail.com",
+    "email": "nathanweb.dev@proton.me",
     "btnText": "Work with me",
     "socialData": [
       {
@@ -346,7 +346,7 @@
         "icon": "envelope",
         "title": "Shoot me an email",
         "text": "",
-        "contactLink": "nathanccz.dev@gmail.com"
+        "contactLink": "nathanweb.dev@proton.me"
       },
       {
         "icon": "github",
