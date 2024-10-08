@@ -1,0 +1,397 @@
+{
+  "headerData": {
+    "logoDark": "/images/my-logo-white.svg",
+    "logoLight": "/images/logo-light.svg"
+  },
+  "heroData": {
+    "title": "My name<br />is <b>Nathan</b> <span><br />Casarez...</span>",
+    "subTitle": "<span>Software engineer</span> based </br> in <span>Los Angeles, CA</span>",
+    "ImgLink": "/images/home-banner.jpg",
+    "phone": "+123 45 666 7788",
+    "email": "nathanccz.dev@gmail.com",
+    "btnText": "Work with me",
+    "socialData": [
+      {
+        "link": "https://github.com/nathanccz",
+        "icon": "github"
+      },
+      {
+        "link": "https://x.com/nathanccz_dev",
+        "icon": "twitter"
+      },
+      {
+        "link": "https://www.linkedin.com/in/nathanccz/",
+        "icon": "linkedin"
+      }
+    ]
+  },
+  "aboutData": {
+    "aboutLeft": {
+      "ImgLink": "/images/about-banner.jpg",
+      "name": "Nathan Casarez",
+      "designation": "<span>I'm your next</span> full-stack web developer",
+      "resumeCv": "/Resume.pdf"
+    },
+    "aboutRight": {
+      "aboutText": "I'm a full-stack web developer who's passionate about crafting extraordinary digital experiences — for clients of all sizes. Whether you're looking for a simple website, or a more complex web application with robust features, I offer a range of services to <strong>take your web presence to new heights.</strong>",
+      "services": [
+        {
+          "icon": "code",
+          "data": "Static Websites"
+        },
+        {
+          "icon": "cart",
+          "data": "E-commerce"
+        },
+        {
+          "icon": "wordpress",
+          "data": "WordPress Sites"
+        },
+        {
+          "icon": "window",
+          "data": "Web Applications"
+        },
+        {
+          "icon": "phone",
+          "data": "Responsive Design"
+        },
+        {
+          "icon": "gear",
+          "data": "Site Optimization"
+        },
+        {
+          "icon": "tools",
+          "data": "Web Maintenance"
+        },
+        {
+          "icon": "search",
+          "data": "SEO Services"
+        }
+      ],
+      "archivement": [
+        {
+          "number": "9+",
+          "meta": "Years <br /> of experience...",
+          "text": "With 9+ years of experience in delivering value to clients, I can support you at any stage in your project cycle, from planning to layout and implementation."
+        },
+        {
+          "number": "8+",
+          "meta": "Core <br /> Technologies...",
+          "text": "My tech stack includes HTML, CSS, JavaScript and React on the front end, along with Node.js, Express, MongoDB and PostgreSQL on the server side."
+        }
+      ],
+      "note": "“Computers aren’t the thing. They are the thing that gets us to the thing.” — Joe MacMillan, <em>Halt and Catch Fire</em>, S1" 
+    }
+  },
+  "experienceData": {
+    "text": "Although I'm currently a freelance developer, I have a unique background in business communications. I bring a distinct blend of technical expertise and creative flair to web development.",
+    "resumeCv": "/Resume.pdf",
+    "experience": [
+      {
+        "start": "2021",
+        "end": "Present",
+        "title": "FULL-STACK WEB DEVELOPER",
+        "subtitle": "Self-employed"
+      },
+      {
+        "start": "2018",
+        "end": "2020",
+        "title": "CLIENT TECHNOLOGY LEAD",
+        "subtitle": "Buck Consultants"
+      },
+      {
+        "start": "2014",
+        "end": "2018",
+        "title": "COMMUNICATIONS ASSOCIATE",
+        "subtitle": "Buck Consultants"
+      }
+    ]
+  },
+  "serviceData": [
+    {
+      "title": "Static Websites",
+      "heading": "Get a simple, straightforward website off the ground quickly.",
+      "triger": "One",
+      "imgLink": "/images/services-1.jpg",
+      "text": "My static website development services are perfect for creating simple, reliable sites that can be developed and deployed swiftly. This is ideal for blogs, portfolios, landing pages and simple business websites. <br/><br/> If you need a domain, I'll help you secure your hosting solution based on the scale of your project. Then, I'll develop, test and optimize your website for major browsers, devices and screen sizes. You'll receive ongoing and timely status updates until your site goes live. <br/><br/> As an added service, you may opt for a monthly retainer if your website needs regular updates after launch."
+    },
+    {
+      "title": "E-commerce",
+      "heading": "Unleash your online retail potential with my Shopify and full-stack services.",
+      "triger": "Two",
+      "imgLink": "/images/services-2.jpg",
+      "text": "Online retail sales are estimated to exceed $6.3 trillion USD worldwide in 2024 — and they're expected to reach new heights in the coming years. <br/><br/> Whether you need a user-facing storefront, or a custom full-stack solution, I'll ensure a seamless online shopping experience for your customers. I mainly use the Shopify platform for its easy setup and scalability, but we can discuss options if you have other preferences. <br/><br/> As with static websites, I also offer maintenance services for ongoing updates and peace of mind."
+    },
+    {
+      "title": "WordPress",
+      "heading": "Set up your website on the world's most popular content management platform.",
+      "triger": "Four",
+      "imgLink": "/images/services-3.jpg",
+      "text": "WordPress powers nearly a third of the Internet, from small blogs to the websites of major corporations like Sony, Time and NBC. I can build you a custom or template-based WordPress site from the ground up. If you have an existing site that you want to migrate to a new WordPress theme, I'll ensure the process goes as smoothly as possible with nothing lost in between."
+    },
+    {
+      "title": "Maintenance",
+      "heading": "Need someone to keep your website up to date? Let me take care of it.",
+      "triger": "Three",
+      "imgLink": "/images/services-4.jpg",
+      "text": "I offer website maintenance services to help keep your website up to date, hassle-free. Let's discuss setting up a monthly retainer fee depending on the size of your website or project. I'll be on hand to make any updates like content changes, image revisions or even adding new pages. Just shoot me an email, and I've got you covered."
+    }
+  ],
+  "portfolioData": [
+    {
+      "ImgLink": "/images/project-1.jpg",
+      "subTitle": "Full-stack web app",
+      "title": "Bourbon Society",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "A full-stack web application built on React and Next.js. It features stunning bar and restaurant visuals, along with back-end functionality to capture dinner reservation data, blog comments and contact form submissions."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/project-2.jpg",
+      "subTitle": "Client-side web app",
+      "title": "NASA Agency",
+      "link": "https://galaxy-snapshot.netlify.app/",
+      "paragraphList": [
+        {
+          "text": "NASA is recognized around the world, but not everyone knows the full picture of what they do. This static web app fetches data from NASA's APIs to offer a glimpse into the agency. It is built on HTML, CSS and client-side JavaScript."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/project-3.jpg",
+      "subTitle": "Static Website",
+      "title": "Rose Bakery",
+      "link": "https://mrosebakery.netlify.app/",
+      "paragraphList": [
+        {
+          "text": "A multi-page website for Rose Bakery with a heavy emphasis on dynamic visuals, including a rotating homepage banner, slideshows and crisp images."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/project-4.jpg",
+      "subTitle": "Landing Page",
+      "title": "Ayesha Hair Salon",
+      "link": "https://ayeshastyle.netlify.app/",
+      "paragraphList": [
+        {
+          "text": "A static landing page for Ayesha Hair Salon built from scratch with only HTML and CSS. It has a dynamic image layout, including a masonry gallery that takes advantage of CSS grid."
+        }
+      ]
+    }
+  ],
+  "blogData": [
+    {
+      "ImgLink": "/images/blog-1.jpg",
+      "date": "12 July, 2022",
+      "delay": "700",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-2.jpg",
+      "date": "11 July, 2022",
+      "delay": "800",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-3.jpg",
+      "date": "10 July, 2022",
+      "delay": "900",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-4.jpg",
+      "date": "10 July, 2022",
+      "delay": "1000",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },
+        {
+          "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    }
+  ],
+  "sliderData": {
+    "testimonialInfo": {
+      "useFor": "testimonial",
+      "settings": {
+        "infinite": true,
+        "speed": 1500,
+        "autoplay": true,
+        "autoplaySpeed": 5000,
+        "slidesToShow": 2,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "dots": true,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 1,
+              "autoplay": true
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/avatar-1.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        },
+        {
+          "imgLink": "/images/avatar-2.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        },
+        {
+          "imgLink": "/images/avatar-1.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        },
+        {
+          "imgLink": "/images/avatar-2.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        }
+      ]
+    },
+    "brandInfo": {
+      "useFor": "brand",
+      "settings": {
+        "infinite": true,
+        "speed": 1000,
+        "autoplay": true,
+        "autoplaySpeed": 3000,
+        "slidesToShow": 5,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 4
+            }
+          },
+          {
+            "breakpoint": 767,
+            "settings": {
+              "slidesToShow": 3
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/brand-1.png"
+        },
+        {
+          "imgLink": "/images/brand-2.png"
+        },
+        {
+          "imgLink": "/images/brand-3.png"
+        },
+        {
+          "imgLink": "/images/brand-4.png"
+        },
+        {
+          "imgLink": "/images/brand-1.png"
+        },
+        {
+          "imgLink": "/images/brand-2.png"
+        }
+      ]
+    }
+  },
+  "contactData": {
+    "contactInfo": [
+      {
+        "icon": "envelope",
+        "title": "Shoot me an email",
+        "text": "",
+        "contactLink": "nathanccz.dev@gmail.com"
+      },
+      {
+        "icon": "github",
+        "title": "Check out my GitHub",
+        "text": "",
+        "contactLink": "github.com/nathanccz"
+      },
+      {
+        "icon": "twitter",
+        "title": "Follow me on Twitter",
+        "text": "",
+        "contactLink": "x.com/nathanccz_dev"
+      },
+      {
+        "icon": "linkedin",
+        "title": "Connect on LinkedIn",
+        "text": "",
+        "contactLink": "linkedin.com/in/nathanccz/"
+      }
+    ],
+    "contactForm": {
+      "title": "Let's build something great, together.",
+      "text": "Have an idea for an exciting new project, or just want to chat? I'd love to hear from you."
+    }
+  },
+  "footerData": {
+    "ImgLink": "/images/about-banner.jpg",
+    "name": "Nathan Casarez"
+  },
+  "socialData": [
+    {
+      "icon": "google",
+      "link": "mailto:nathanccz.dev@gmail.com"
+    },
+    {
+      "icon": "github",
+      "link": "https://github.com/nathanccz"
+    },
+    {
+      "icon": "twitter",
+      "link": "https://x.com/nathanccz_dev"
+    },
+    {
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/nathanccz/"
+    }
+  ]
+}
