@@ -23,12 +23,12 @@ const Contact = ({ data }) => {
       [name]: value,
     }));
   };
-  {/*
+
   const onSubmit = async (event) => {
     event.preventDefault();
     setLoading(true);
     const formData = new FormData(event.target);
-    formData.append("access_key", "fcc74231-656a-425b-a54f-aff38354fadb");
+    formData.append("access_key", "31904935-7054-446a-b482-04ea5d153181");
 
     const object = Object.fromEntries(formData);
     const json = JSON.stringify(object);
@@ -46,7 +46,7 @@ const Contact = ({ data }) => {
       setFormData({ name: "", email: "", subject: "", message: "" });
       setLoading(false)
     }
-  };{*/}
+  };
   return (
     <section
       id="contact"
@@ -68,17 +68,18 @@ const Contact = ({ data }) => {
                       <label>{element.title}</label>
                       <p>
                         {element.text}
-                        <p>
+                        <span>
                           {element.contactLink &&
                             <a
-                              className="text-reset"
-                              href={element.contactLink.includes('@') ?  'mailto:' + element.contactLink : 'https://' + element.contactLink}
-                              target={!element.contactLink.includes('@') ?  '_target' : ''}
-                            >
+                            className="text-reset"
+                            href={element.contactLink.includes('@') ?  'mailto:' + element.contactLink : 'https://' + element.contactLink}
+                            target={!element.contactLink.includes('@') ?  '_target' : ''}
+                          >
+
                               {element.contactLink}
                             </a>
                           }
-                        </p>
+                        </span>
                       </p>
                     </div>
                   </li>
@@ -100,13 +101,13 @@ const Contact = ({ data }) => {
                 <h4>{contactForm.title}</h4>
                 <p>{contactForm.text}</p>
               </div>
-              <form id="contact-form" method="POST" netlify>
+              <form onSubmit={onSubmit} id="contact-form" method="POST">
                 <input type="hidden" name="from_name" value="Lilon Macwan" />
                 <input type="hidden" name="replyto" value="custom@gmail.com" />
                 <div className="row gx-3 gy-4">
                   <div className="col-md-6">
                     <div className="form-group">
-                      <label className="form-label">Your name</label>
+                      <label className="form-label">First name</label>
                       <input
                         name="name"
                         id="name"
