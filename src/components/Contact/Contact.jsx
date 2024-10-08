@@ -45,6 +45,20 @@ const Contact = ({ data }) => {
     if (res.success) {
       setFormData({ name: "", email: "", subject: "", message: "" });
       setLoading(false)
+      
+      const contactForm = document.querySelector('.contact-form')
+      let successText = document.querySelector('.success')
+
+      if (!successText) {
+        successText = document.createElement('div')
+        successText.classList.add('success')
+        successText.textContent = `Thanks for your submission! I'll get back to you ASAP.`
+        contactForm.appendChild(successText)
+      } else successText.style.display = ''
+      
+      setTimeout(() => {
+        successText.style.display = 'none'
+      }, 5000)
     }
   };
   return (
@@ -102,8 +116,8 @@ const Contact = ({ data }) => {
                 <p>{contactForm.text}</p>
               </div>
               <form onSubmit={onSubmit} id="contact-form" method="POST">
-                <input type="hidden" name="from_name" value="Lilon Macwan" />
-                <input type="hidden" name="replyto" value="custom@gmail.com" />
+                <input type="hidden" name="from_name" value="Nathan Casarez" />
+                <input type="hidden" name="replyto" value="nathanweb.dev@proton.me" />
                 <div className="row gx-3 gy-4">
                   <div className="col-md-6">
                     <div className="form-group">
