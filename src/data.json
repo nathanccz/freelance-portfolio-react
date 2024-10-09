@@ -162,12 +162,12 @@
     },
     {
       "ImgLink": "/images/project-3.jpg",
-      "subTitle": "Static Website",
-      "title": "Rose Bakery",
-      "link": "https://mrosebakery.netlify.app/",
+      "subTitle": "Search engine app",
+      "title": "Now Streaming App",
+      "link": "https://filmandtv.netlify.app/",
       "paragraphList": [
         {
-          "text": "A multi-page website for Rose Bakery with a heavy emphasis on dynamic visuals, including a rotating homepage banner, slideshows and crisp images."
+          "text": "This web app lets you search a variety of streaming services to find where certain titles are streaming for free or by subscription. It also features hundreds of smaller providers you can’t find through other search engines. Results are filtered by location."
         }
       ]
     },
