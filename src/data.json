@@ -29,11 +29,11 @@
     "aboutLeft": {
       "ImgLink": "/images/about-banner.jpg",
       "name": "Nathan Casarez",
-      "designation": "<span>I'm your next</span> full-stack web developer!",
+      "designation": "<span>Your next</span> full-stack web developer!",
       "resumeCv": "/Resume.pdf"
     },
     "aboutRight": {
-      "aboutText": "Hi, I'm Nathan: a full-stack web developer with a professional background in communications. <br /> <br />  I have a deep passion for crafting extraordinary digital experiences — no matter the size or scale of your project. Whether you're looking for a simple website, or a more complex web application with robust features, I offer a range of services to <strong>take your web presence to new heights.</strong>",
+      "aboutText": "I have a deep passion for crafting extraordinary digital experiences — no matter the size or scale of your project. Whether you're looking for a simple website, or a more complex web application with robust features, I offer a range of services to <strong>take your web presence to new heights.</strong>",
       "services": [
         {
           "icon": "code",
@@ -84,7 +84,7 @@
     }
   },
   "experienceData": {
-    "text": "As a freelance developer, I'm dedicated to building human-centric websites and web apps, drawing upon my background in benefits communication. I've helped clients transform technical (and often dry) information into content that drives value for users and stakeholders alike.",
+    "text": "As a developer, I draw upon my unique background in benefits communication to build human-centric websites and web apps. In previous roles I've helped clients transform technical benefits topics into digital content that empowers people to take control of their health and retirement futures.",
     "resumeCv": "/Resume.pdf",
     "experience": [
       {
@@ -113,7 +113,7 @@
       "heading": "Get a simple, straightforward website off the ground quickly.",
       "triger": "One",
       "imgLink": "/images/services-1.jpg",
-      "text": "My static website development services are perfect for creating simple, reliable sites that can be developed and deployed swiftly. This is ideal for blogs, portfolios, landing pages and simple business websites. <br/><br/> If you need a domain, I'll help you secure your hosting solution based on the scale of your project. I'll also provide options for SSL certification so that your brand-new website meets the latest web security standards.<br/><br/> As an added service, you may opt for a monthly retainer if your website needs regular updates after launch."
+      "text": "My static website development services are perfect for creating simple, reliable sites that can be developed and deployed swiftly. This is ideal for blogs, portfolios, landing pages and multi-page business websites. <br/><br/> If you need a domain, I'll help you secure your hosting solution based on the scale of your project. I'll also provide options for SSL certification so that your brand-new website meets the latest web security standards.<br/><br/> As an added service, you may opt for a monthly retainer if your website needs regular updates after launch."
     },
     {
       "title": "E-commerce",
@@ -142,7 +142,7 @@
       "ImgLink": "/images/project-1.jpg",
       "subTitle": "Full-stack web app",
       "title": "Bourbon Society",
-      "link": "",
+      "link": "https://bourbonsociety.netlify.app/",
       "paragraphList": [
         {
           "text": "A full-stack web application built on React and Next.js. It features stunning bar and restaurant visuals, along with back-end functionality to capture dinner reservation data, blog comments and contact form submissions."
