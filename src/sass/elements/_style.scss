@@ -243,7 +243,7 @@ a {
     }
   }
   .lead {
-    font-size: 18px;
+    font-size: 1rem;
     span {
       color: var(--px-theme);
     }
@@ -251,7 +251,7 @@ a {
 
   blockquote {
     background: rgba(var(--px-white-rgb), 0.05);
-    padding: 30px;
+    padding: 25px;
     border-radius: 10px;
     position: relative;
     display: flex;
@@ -270,7 +270,7 @@ a {
       margin: 0;
       flex: 1;
       padding: 0 0 0 30px;
-      font-size: 20px;
+      font-size: 18px;
       font-weight: 600;
       @include down-sm {
         font-size: 18px;
@@ -287,7 +287,7 @@ a {
     margin: 0;
     p {
       max-width: 370px;
-      font-size: 18px;
+      font-size: 16px;
       @include down-md {
         max-width: 100%;
       }
@@ -332,7 +332,7 @@ a {
   }
   h5 {
     margin: 0;
-    font-size: 32px;
+    font-size: 28px;
     color: var(--px-white);
     font-weight: 700;
     text-transform: uppercase;
@@ -418,7 +418,7 @@ a {
         .services-title {
           flex: 0 0 33.3333%;
           width: 33.3333%;
-          font-size: 32px;
+          font-size: 28px;
           font-weight: 800;
           text-transform: uppercase;
           line-height: 1.2;
@@ -431,7 +431,7 @@ a {
           @include down-sm {
             flex: 0 0 100%;
             width: 100%;
-            font-size: 22px;
+            font-size: 18px;
           }
           &:after {
             content: "";
@@ -867,7 +867,7 @@ a {
   position: absolute;
   bottom: -10px;
   left: -90px;
-  background-color: #050409 !important;
+  background-color: #0d0b1c !important;
   font-size: 40px;
   font-weight: 700;
   letter-spacing: 1px;

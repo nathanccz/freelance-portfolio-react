@@ -52,7 +52,7 @@ const Contact = ({ data }) => {
       if (!successText) {
         successText = document.createElement('div')
         successText.classList.add('success')
-        successText.textContent = `Thanks for your submission! I'll get back to you ASAP.`
+        successText.textContent = `Thanks for reaching out! I'll get back to you ASAP.`
         contactForm.appendChild(successText)
       } else successText.style.display = ''
       

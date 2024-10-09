@@ -83,7 +83,7 @@ const Process = ({ data }) => {
                               </h5>
                               <h4 class="ezy__howitworks11-title fw-bold mb-3">Build & Test</h4>
                               <p class="opacity-75">
-                                  Then, it's time to build. I'll test your website across a range of devices, browsers and display sizes so that it looks great and performs well for all users. Once the site is approved, it'll go live. You'll receive all assets, plus control over the domain.
+                                  Now, you get to sit back while I'll build and test your website. During this phase, I'll make sure your site looks good and performs well across a range of devices, browsers and display sizes. Once the site is approved, it'll go live. You'll receive all assets, plus full control over the domain.
                               </p>
                             </div>
                           </div>

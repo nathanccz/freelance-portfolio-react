@@ -29,11 +29,11 @@
     "aboutLeft": {
       "ImgLink": "/images/about-banner.jpg",
       "name": "Nathan Casarez",
-      "designation": "<span>I'm your next</span> full-stack web developer",
+      "designation": "<span>I'm your next</span> full-stack web developer!",
       "resumeCv": "/Resume.pdf"
     },
     "aboutRight": {
-      "aboutText": "I'm a full-stack web developer who's passionate about crafting extraordinary digital experiences — for clients of all sizes. Whether you're looking for a simple website, or a more complex web application with robust features, I offer a range of services to <strong>take your web presence to new heights.</strong>",
+      "aboutText": "Hi, I'm Nathan: a full-stack web developer with a professional background in communications. <br /> <br />  I have a deep passion for crafting extraordinary digital experiences — no matter the size or scale of your project. Whether you're looking for a simple website, or a more complex web application with robust features, I offer a range of services to <strong>take your web presence to new heights.</strong>",
       "services": [
         {
           "icon": "code",
@@ -72,7 +72,7 @@
         {
           "number": "9+",
           "meta": "Years <br /> of experience...",
-          "text": "With 9+ years of experience in delivering value to clients, I can support you at any stage in your project cycle, from planning to layout and implementation."
+          "text": "With 9+ years of experience delivering value to clients, I can support you at any stage in your project cycle, from planning to layout and implementation."
         },
         {
           "number": "8+",
@@ -84,7 +84,7 @@
     }
   },
   "experienceData": {
-    "text": "Although I'm currently a freelance developer, I have a unique background in business communications. I bring a distinct blend of technical expertise and creative flair to web development.",
+    "text": "As a freelance developer, I'm dedicated to building human-centric websites and web apps, drawing upon my background in benefits communication. I've helped clients transform technical (and often dry) information into content that drives value for users and stakeholders alike.",
     "resumeCv": "/Resume.pdf",
     "experience": [
       {
@@ -113,7 +113,7 @@
       "heading": "Get a simple, straightforward website off the ground quickly.",
       "triger": "One",
       "imgLink": "/images/services-1.jpg",
-      "text": "My static website development services are perfect for creating simple, reliable sites that can be developed and deployed swiftly. This is ideal for blogs, portfolios, landing pages and simple business websites. <br/><br/> If you need a domain, I'll help you secure your hosting solution based on the scale of your project. Then, I'll develop, test and optimize your website for major browsers, devices and screen sizes. You'll receive ongoing and timely status updates until your site goes live. <br/><br/> As an added service, you may opt for a monthly retainer if your website needs regular updates after launch."
+      "text": "My static website development services are perfect for creating simple, reliable sites that can be developed and deployed swiftly. This is ideal for blogs, portfolios, landing pages and simple business websites. <br/><br/> If you need a domain, I'll help you secure your hosting solution based on the scale of your project. I'll also provide options for SSL certification so that your brand-new website meets the latest web security standards.<br/><br/> As an added service, you may opt for a monthly retainer if your website needs regular updates after launch."
     },
     {
       "title": "E-commerce",
@@ -127,10 +127,10 @@
       "heading": "Set up your website on the world's most popular content management platform.",
       "triger": "Four",
       "imgLink": "/images/services-3.jpg",
-      "text": "WordPress powers nearly a third of the Internet, from small blogs to the websites of major corporations like Sony, Time and NBC. I can build you a custom or template-based WordPress site from the ground up. If you have an existing site that you want to migrate to a new WordPress theme, I'll ensure the process goes as smoothly as possible with nothing lost in between."
+      "text": "WordPress powers nearly a third of the Internet, from small blogs to the websites of major corporations like Sony, Time and NBC. I can build you a template-based WordPress site or a custom one from the ground up. If you have an existing site that you want to migrate to a new WordPress theme, I'll ensure the process goes as smoothly as possible with nothing lost in between."
     },
     {
-      "title": "Maintenance",
+      "title": "Web Maintenance",
       "heading": "Need someone to keep your website up to date? Let me take care of it.",
       "triger": "Three",
       "imgLink": "/images/services-4.jpg",
@@ -379,7 +379,7 @@
   "socialData": [
     {
       "icon": "google",
-      "link": "mailto:nathanccz.dev@gmail.com"
+      "link": "mailto:nathanweb.dev@proton.me"
     },
     {
       "icon": "github",
