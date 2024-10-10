@@ -1,6 +1,7 @@
 import PropTypes from 'prop-types';
 import { Icon } from "@iconify/react";
 import { socialData } from "../../data.json";
+import perser from 'html-react-parser';
 
 const Modal = ({ img, title, date, subTitle, paraList, link, modalClose }) => {
   console.log(link)
@@ -22,7 +23,7 @@ const Modal = ({ img, title, date, subTitle, paraList, link, modalClose }) => {
             {subTitle && <h5>{subTitle}</h5>}
             <h2>{title}</h2>
             {paraList && paraList.map((element, index) => (
-              <p key={index}>{element.text}</p>
+              <p key={index}>{perser(element.text)}</p>
             ))
             }
             {link &&

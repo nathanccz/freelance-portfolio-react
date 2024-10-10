@@ -145,7 +145,7 @@
       "link": "https://bourbonsociety.netlify.app/",
       "paragraphList": [
         {
-          "text": "A full-stack web application built on React and Next.js. It features stunning bar and restaurant visuals, along with back-end functionality to capture dinner reservation data, blog comments and contact form submissions."
+          "text": "A full-stack web application built on React and Next.js. It features stunning bar and restaurant visuals, along with back-end functionality to capture dinner reservation data, blog comments and contact form submissions. <br/><br/><strong>View app in desktop view (full mobile support is in the works!):</strong>"
         }
       ]
     },
