@@ -41,7 +41,7 @@
         },
         {
           "icon": "cart",
-          "data": "E-commerce"
+          "data": "E-commerce Sites"
         },
         {
           "icon": "wordpress",
@@ -50,14 +50,6 @@
         {
           "icon": "window",
           "data": "Web Applications"
-        },
-        {
-          "icon": "phone",
-          "data": "Responsive Design"
-        },
-        {
-          "icon": "gear",
-          "data": "Site Optimization"
         },
         {
           "icon": "tools",
