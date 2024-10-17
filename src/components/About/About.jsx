@@ -2,6 +2,7 @@ import PropTypes from 'prop-types';
 import SectionHeading from '../SectionHeading/SectionHeading';
 import perser from 'html-react-parser';
 import { Icon } from '@iconify/react';
+import { Link as ScrollLink } from "react-scroll";
 
 const About = ({ data }) => {
   const { aboutLeft, aboutRight } = data;
@@ -25,10 +26,10 @@ const About = ({ data }) => {
               </div>
               <h3>{name}</h3>
               <p>{perser(designation)}</p>
-              <div className="btn-bar">
-                <a className="px-btn" href={resumeCv} download>
-                  Download CV <Icon icon="bi-download" />
-                </a>
+              <div className="btn-bar" data-aos="fade-up" data-aos-duration="500" data-aos-delay="300">
+                <ScrollLink to="contact" spy={true} className="px-btn">
+                  Contact Me
+                  <Icon icon="bi:arrow-up-right" /></ScrollLink>
               </div>
             </div>
           </div>

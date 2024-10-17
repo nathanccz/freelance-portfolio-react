@@ -62,9 +62,9 @@
       ],
       "archivement": [
         {
-          "number": "9+",
+          "number": "7+",
           "meta": "Years <br /> of experience...",
-          "text": "With 9+ years of experience delivering value to clients, I can support you at any stage in your project cycle, from planning to layout and implementation."
+          "text": "With 7+ years of experience delivering value to clients, I can support you at any stage in your project cycle, from planning to layout and implementation."
         },
         {
           "number": "8+",
@@ -76,7 +76,7 @@
     }
   },
   "experienceData": {
-    "text": "As a developer with a background in benefits communication, I strive to build web experiences that resonate with users as people, not just customers. In previous roles I've helped clients transform technical benefits topics into digital content that delights and inspires.",
+    "text": "As a developer with a background in benefits communication, I strive to build web experiences that resonate with users as people, not just customers. In previous roles I've helped clients transform technical benefits topics into digital content that empowers.",
     "resumeCv": "/Resume.pdf",
     "experience": [
       {
@@ -137,7 +137,7 @@
       "link": "https://bourbonsociety.netlify.app/",
       "paragraphList": [
         {
-          "text": "A full-stack web application built on React and Next.js. It features stunning bar and restaurant visuals, along with back-end functionality to capture dinner reservation data, blog comments and contact form submissions. <br/><br/><strong>View app in desktop view (full mobile support is in the works!):</strong>"
+          "text": "A full-stack web application built on React and Next.js. It features stunning restaurant and bar visuals, along with back-end functionality to capture dinner reservation data, blog comments and contact form submissions."
         }
       ]
     },

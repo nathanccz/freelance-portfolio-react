@@ -15,7 +15,7 @@ const Experience = ({ data }) => {
               <p data-aos="fade-up" data-aos-duration="800" data-aos-delay="300">{text}</p>
               <div className="btn-bar" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
                 <a href={resumeCv} className="px-btn dark" download>
-                  Download my resume <Icon icon="bi-download" />
+                  Download Resumé <Icon icon="bi-download" />
                 </a>
               </div>
             </div>
