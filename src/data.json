@@ -105,7 +105,7 @@
       "heading": "Get a simple, straightforward website off the ground quickly.",
       "triger": "One",
       "imgLink": "/images/services-1.jpg",
-      "text": "My static website development services are perfect for creating simple, reliable sites that can be developed and deployed swiftly. This is ideal for blogs, portfolios, landing pages and multi-page business websites. <br/><br/> If you need a domain, I'll help you secure your hosting solution based on the scale of your project. I'll also provide options for SSL certification so that your brand new site meets the latest web security standards.<br/><br/> As an added service, you may opt for a monthly retainer if your website needs regular updates after launch."
+      "text": "My static website development services are perfect for creating simple, reliable sites that can be developed and deployed swiftly. This is ideal for blogs, portfolios, landing pages and multi-page business websites. <br/><br/> If you need a domain, I'll help you secure your hosting solution based on the scale of your project. I'll also provide options for SSL/TLS certification so that your brand new site meets the latest web security standards.<br/><br/> As an added service, you may opt for a monthly retainer if your website needs regular updates after launch."
     },
     {
       "title": "E-commerce",
@@ -126,7 +126,7 @@
       "heading": "Need someone to keep your website up to date? Let me take care of it.",
       "triger": "Three",
       "imgLink": "/images/services-4.jpg",
-      "text": "I offer website maintenance services to help keep your website up to date, hassle-free. Let's discuss setting up a monthly retainer fee depending on the size of your website or project. I'll be on hand to make any updates like content changes, image revisions or even adding new pages. Just shoot me an email, and I've got you covered."
+      "text": "I offer web maintenance services to help you keep your website up to date, hassle-free. Let's discuss setting up a monthly retainer fee depending on the size of your website or project. I'll be on hand to make any updates like content changes, image revisions or even adding new pages. Just shoot me an email, and I've got you covered."
     }
   ],
   "portfolioData": [
@@ -159,7 +159,7 @@
       "link": "https://filmandtv.netlify.app/",
       "paragraphList": [
         {
-          "text": "This web app lets you search a variety of streaming services to find where certain titles are streaming for free or by subscription. It also features hundreds of smaller providers you can’t find through other search engines. Results are filtered by location."
+          "text": "This web app lets you search providers to find where certain titles are streaming for free or by subscription. It also features hundreds of smaller services that you can’t find through other search engines. Results are tailored to your general location."
         }
       ]
     },
@@ -170,7 +170,7 @@
       "link": "https://ayeshastyle.netlify.app/",
       "paragraphList": [
         {
-          "text": "A static landing page for Ayesha Hair Salon built from scratch with only HTML and CSS. It has a dynamic image layout, including a masonry gallery that takes advantage of CSS grid."
+          "text": "A static landing page for Ayesha Hair Salon built from a graphic designer's layout with only HTML and CSS. It features high-res imagery to achieve a 'magazine-like' design, including a masonry gallery that takes advantage of CSS grid."
         }
       ]
     }

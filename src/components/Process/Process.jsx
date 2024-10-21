@@ -67,7 +67,7 @@ const Process = ({ data }) => {
                               </h5>
                               <h4 class="ezy__howitworks11-title fw-bold mb-3">Iterate on Layout</h4>
                               <p class="opacity-75">
-                                Once the contract is signed, I'll get to work. We'll set up weekly meetings to decide on layout, design and content. You'll receive three templates or wireframes to choose from. Then, we'll iterate on your chosen layout until you're satisfied, up to three revisions.
+                                Once the contract is signed, I'll get to work. We'll set up weekly meetings to decide on layout, design and content. You'll receive three templates or wireframes to choose from. Then, we'll iterate on your chosen layout until you're satisfied, up to three revisions. I'll also work on setting up your domain in the background.
                               </p>
                             </div>
                           </div>
@@ -83,7 +83,7 @@ const Process = ({ data }) => {
                               </h5>
                               <h4 class="ezy__howitworks11-title fw-bold mb-3">Build & Test</h4>
                               <p class="opacity-75">
-                                  Now, you get to sit back while I'll build and test your website. During this phase, I'll make sure your site looks good and performs well across a range of devices, browsers and display sizes. Once the site is approved, it'll go live. You'll receive all assets, plus full control over the domain.
+                                  During this phase, I'll build and test your website so that it looks good and performs well across a range of devices, browsers and display sizes. You'll be invited to test as often as you'd like. Once the site is approved, it'll go live. You'll receive all assets, plus full control over the domain.
                               </p>
                             </div>
                           </div>
