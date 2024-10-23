@@ -4,8 +4,8 @@
     "logoLight": "/images/logo-light.svg"
   },
   "heroData": {
-    "title": "My name<br />is <b>Nathan</b> <span><br />Casarez...</span>",
-    "subTitle": "<span>Software engineer</span> based </br> in <span>Los Angeles, CA</span>",
+    "title": "Hi, I'm<br /> <b>Nathan</b> <span><br />Casarez...</span>",
+    "subTitle": "A <span>software engineer</span> based </br> in <span>Los Angeles, CA</span>",
     "ImgLink": "/images/home-banner.jpg",
     "phone": "+123 45 666 7788",
     "email": "nathanweb.dev@proton.me",
@@ -33,7 +33,7 @@
       "resumeCv": "/Resume.pdf"
     },
     "aboutRight": {
-      "aboutText": "I'm deeply committed to crafting extraordinary digital experiences — for clients of all sizes. Whether you're looking for a simple website, or a more complex web application with robust features, I offer a range of services to <strong>take your web presence to new heights.</strong>",
+      "aboutText": "I'm deeply committed to crafting extraordinary digital experiences that deliver value to users and businesses alike. Whether you're looking for a simple website, or a more complex web application with robust features, I offer a range of services to <strong>take your web presence to new heights.</strong>",
       "services": [
         {
           "icon": "code",
@@ -56,8 +56,8 @@
           "data": "Web Maintenance"
         },
         {
-          "icon": "search",
-          "data": "SEO Services"
+          "icon": "phone",
+          "data": "Responsive Design"
         }
       ],
       "archivement": [
@@ -89,13 +89,13 @@
         "start": "2018",
         "end": "2020",
         "title": "CLIENT TECHNOLOGY LEAD",
-        "subtitle": "Buck Consultants"
+        "subtitle": "Gallagher (formerly Buck)"
       },
       {
         "start": "2014",
         "end": "2018",
         "title": "COMMUNICATIONS ASSOCIATE",
-        "subtitle": "Buck Consultants"
+        "subtitle": "Gallagher (formerly Buck)"
       }
     ]
   },
@@ -336,25 +336,25 @@
     "contactInfo": [
       {
         "icon": "envelope",
-        "title": "Shoot me an email",
+        "title": "Shoot me an email:",
         "text": "",
         "contactLink": "nathanweb.dev@proton.me"
       },
       {
         "icon": "github",
-        "title": "Check out my GitHub",
+        "title": "Check out my GitHub:",
         "text": "",
         "contactLink": "github.com/nathanccz"
       },
       {
         "icon": "twitter",
-        "title": "Follow me on Twitter",
+        "title": "Follow me on Twitter:",
         "text": "",
         "contactLink": "x.com/nathanccz_dev"
       },
       {
         "icon": "linkedin",
-        "title": "Connect on LinkedIn",
+        "title": "Connect on LinkedIn:",
         "text": "",
         "contactLink": "linkedin.com/in/nathanccz/"
       }

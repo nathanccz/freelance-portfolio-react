@@ -10,6 +10,8 @@ const Modal = ({ img, title, date, subTitle, paraList, link, modalClose }) => {
     backdropFilter: "saturate(180%) blur(8px)",
     display: "block"
   };
+  const copyrightDate = new Date;
+  const currentYear = copyrightDate.getFullYear()
   return (
     <div className="modal show fade bd-example-modal-lg" style={modalStyle}>
       <div className="px-modal">
@@ -32,7 +34,7 @@ const Modal = ({ img, title, date, subTitle, paraList, link, modalClose }) => {
             </a>
             }
             <div className="blog-meta">
-              <label>Share</label>
+              <p className="copyright">© {currentYear} copyright all rights reserved</p>
               <ul className="nav social-link">
                 {socialData.map((element, index) => (
                   <li key={index}>
