@@ -26,7 +26,7 @@ const About = ({ data }) => {
               </div>
               <h3>{name}</h3>
               <p>{perser(designation)}</p>
-              <div className="btn-bar" data-aos="fade-up" data-aos-duration="500" data-aos-delay="300">
+              <div className="btn-bar">
                 <ScrollLink to="contact" spy={true} className="px-btn">
                   Contact Me
                   <Icon icon="bi:arrow-up-right" /></ScrollLink>

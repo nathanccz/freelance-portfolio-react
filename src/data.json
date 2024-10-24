@@ -132,7 +132,7 @@
   "portfolioData": [
     {
       "ImgLink": "/images/project-1.jpg",
-      "subTitle": "Full-stack web app",
+      "subTitle": "Full-stack restaurant app",
       "title": "Bourbon Society",
       "link": "https://bourbonsociety.netlify.app/",
       "paragraphList": [
@@ -143,7 +143,7 @@
     },
     {
       "ImgLink": "/images/project-2.jpg",
-      "subTitle": "Client-side web app",
+      "subTitle": "Educational web app",
       "title": "NASA Agency",
       "link": "https://galaxy-snapshot.netlify.app/",
       "paragraphList": [
@@ -155,7 +155,7 @@
     {
       "ImgLink": "/images/project-3.jpg",
       "subTitle": "Search engine app",
-      "title": "Now Streaming App",
+      "title": "Now Streaming",
       "link": "https://filmandtv.netlify.app/",
       "paragraphList": [
         {
@@ -165,7 +165,7 @@
     },
     {
       "ImgLink": "/images/project-4.jpg",
-      "subTitle": "Landing Page",
+      "subTitle": "Business landing page",
       "title": "Ayesha Hair Salon",
       "link": "https://ayeshastyle.netlify.app/",
       "paragraphList": [

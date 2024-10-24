@@ -83,7 +83,7 @@ const Process = ({ data }) => {
                               </h5>
                               <h4 class="ezy__howitworks11-title fw-bold mb-3">Build & Test</h4>
                               <p class="opacity-75">
-                                  During this phase, I'll build and test your website so that it looks good and performs well across a range of devices, browsers and display sizes. You'll be invited to test as often as you'd like. Once the site is approved, it'll go live. You'll receive all assets, plus full control over the domain.
+                                  During this phase, I'll build and test your website so that it looks good and performs well across a range of devices, browsers and display sizes. You'll be invited to test as often as you'd like. Once the site is approved, it will go live. You'll receive all assets, plus full control over the domain.
                               </p>
                             </div>
                           </div>
