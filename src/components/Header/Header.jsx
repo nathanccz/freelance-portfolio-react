@@ -39,20 +39,20 @@ const Header = ({ data }) => {
       >
         {/* Brand */}
         <div className="logo">
-          <Link className="navbar-brand" to="/">
+          <ScrollLink className="navbar-brand" to="home">
             <img
               className="logo-dark"
-              title="Lilon"
+              title="nathanweb.dev"
               alt="site-logo"
               src={logoDark}
             />
             <img
               className="logo-light"
-              title="Lilon"
+              title="nathanweb.dev"
               alt="site-logo"
               src={logoLight}
             />
-          </Link>
+          </ScrollLink>
         </div>
         {/* / */}
         <ul className="main-menu">
