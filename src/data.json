@@ -33,7 +33,7 @@
       "resumeCv": "/Resume.pdf"
     },
     "aboutRight": {
-      "aboutText": "I'm deeply committed to crafting extraordinary digital experiences that deliver value to users and businesses alike. Whether you're looking for a simple website, or a more complex web application with robust features, I offer a range of services to <strong>take your web presence to new heights.</strong>",
+      "aboutText": "I'm deeply committed to crafting extraordinary digital experiences for clients of all sizes. Whether you're looking for a simple website, or a full-fledged web app with robust features, I offer a range of services to <strong>take your web presence to new heights.</strong>",
       "services": [
         {
           "icon": "code",
@@ -369,10 +369,6 @@
     "name": "Nathan Casarez"
   },
   "socialData": [
-    {
-      "icon": "google",
-      "link": "mailto:nathanweb.dev@proton.me"
-    },
     {
       "icon": "github",
       "link": "https://github.com/nathanccz"
