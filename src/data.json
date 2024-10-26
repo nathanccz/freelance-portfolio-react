@@ -30,10 +30,10 @@
       "ImgLink": "/images/about-banner.jpg",
       "name": "Nathan Casarez",
       "designation": "<span>Your next</span> full-stack web developer!",
-      "resumeCv": "/Resume.pdf"
+      "resumeCv": "/Resume (Work in Progress).pdf"
     },
     "aboutRight": {
-      "aboutText": "I'm deeply committed to crafting extraordinary digital experiences for clients of all sizes. Whether you're looking for a simple website, or a full-fledged web app with robust features, I offer a range of services to <strong>take your web presence to new heights.</strong>",
+      "aboutText": "I specialize in crafting extraordinary digital experiences that drive value for users and businesses alike. Whether you're looking for a simple website, or a full-fledged web app with robust features, I offer a range of services to <strong>take your web presence to new heights.</strong>",
       "services": [
         {
           "icon": "code",
@@ -76,8 +76,8 @@
     }
   },
   "experienceData": {
-    "text": "As a developer with a background in benefits communication, I strive to build web experiences that resonate with users as people, not just customers. In previous roles I've helped clients transform technical benefits topics into digital content that empowers.",
-    "resumeCv": "/Resume.pdf",
+    "text": "As a developer with a background in benefits communication, I strive to build web experiences that resonate with users as people first. In previous roles I've helped clients transform technical benefits topics into digital content that empowers.",
+    "resumeCv": "/Resume (Work in Progress).pdf",
     "experience": [
       {
         "start": "2021",
