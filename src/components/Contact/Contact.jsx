@@ -121,7 +121,7 @@ const Contact = ({ data }) => {
                 <div className="row gx-3 gy-4">
                   <div className="col-md-6">
                     <div className="form-group">
-                      <label className="form-label">First name</label>
+                      <label className="form-label">Your Name</label>
                       <input
                         name="name"
                         id="name"
@@ -166,7 +166,7 @@ const Contact = ({ data }) => {
                   </div>
                   <div className="col-md-12">
                     <div className="form-group">
-                      <label className="form-label">Your message</label>
+                      <label className="form-label">What can I help you with?</label>
                       <textarea
                         name="message"
                         id="message"
@@ -186,7 +186,7 @@ const Contact = ({ data }) => {
                         type="submit"
                         value="Send"
                       >
-                        {loading ? "Sending..." : "Send Message"}
+                        {loading ? "Sending message..." : "Let's Get Started!"}
                       </button>
                     </div>
                   </div>

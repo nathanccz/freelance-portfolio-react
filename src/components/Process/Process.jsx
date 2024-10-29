@@ -15,7 +15,7 @@ const Process = ({ data }) => {
                   <div className="container">
                     <SectionHeading title="Timeline for Success" subTitle="My Process" />
                     <div className="row gy-4">
-
+                <p class="opacity-90">Here's how we'll turn your vision into reality:</p>
 
                 <div class="container">
                   <div class="row">
@@ -35,7 +35,7 @@ const Process = ({ data }) => {
                               </h5>
                               <h4 class="ezy__howitworks11-title fw-bold mb-3">Set Up a Meeting</h4>
                               <p class="opacity-75">
-                                  We'll set up a time to talk about your project over the phone or on a video call. During this phase, you have the chance to dream big: What does success look like to you? Let's discuss your desired goals, your target audience, design needs and budget.
+                                  We'll set up a time to talk about your project over the phone or on a video call. During this phase, you have the chance to dream big: <strong>What does success look like to you?</strong> Let's discuss your desired goals, your target audience, design needs and budget.
                               </p>
                             </div>
                           </div>
@@ -51,7 +51,7 @@ const Process = ({ data }) => {
                               </h5>
                               <h4 class="ezy__howitworks11-title fw-bold mb-3">Receive Proposal</h4>
                               <p class="opacity-75">
-                                  After our meeting, I'll put together a proposal of options available within your ballpark budget. Each option will outline the services you can expect, the timeline for completion, and the price. You'll also receive a contract for your review.
+                                  After our meeting, I'll put together a proposal of options available within your ballpark budget. Each option will outline the services you can expect, the timeline for completion, and the price. You'll also receive a <strong>contract for your review.</strong>
                               </p>
                             </div>
                           </div>
@@ -67,7 +67,7 @@ const Process = ({ data }) => {
                               </h5>
                               <h4 class="ezy__howitworks11-title fw-bold mb-3">Iterate on Layout</h4>
                               <p class="opacity-75">
-                                Once the contract is signed, I'll get to work. We'll set up weekly meetings to decide on layout, design and content. You'll receive three templates or wireframes to choose from. Then, we'll iterate on your chosen layout until you're satisfied, up to three revisions. I'll also start setting up your domain.
+                                Once the contract is signed, I'll get to work. We'll set up weekly meetings to decide on layout, design and content. You'll receive three templates or wireframes to choose from. Then, we'll iterate on your chosen layout until you're satisfied, <strong>up to three revisions</strong>. I'll also start setting up your domain.
                               </p>
                             </div>
                           </div>
@@ -83,7 +83,7 @@ const Process = ({ data }) => {
                               </h5>
                               <h4 class="ezy__howitworks11-title fw-bold mb-3">Build & Test</h4>
                               <p class="opacity-75">
-                                  During this phase, I'll build and test your website so that it looks good and performs well across a range of devices, browsers and display sizes. You'll be invited to test as often as you'd like. Once the site is approved, it will go live. You'll receive all assets, plus full control over the domain.
+                                  During this phase, I'll build and test your website so that it looks good and performs well across a range of devices, browsers and display sizes. You'll be invited to test as often as you'd like. Once the site is approved, it will go live. You'll receive all assets, plus <strong>full control over the domain</strong>.
                               </p>
                             </div>
                           </div>
