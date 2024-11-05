@@ -2,6 +2,7 @@ import PropTypes from "prop-types"
 import { Icon } from "@iconify/react";
 import SectionHeading from "../SectionHeading/SectionHeading";
 import { useState } from "react";
+import perser from 'html-react-parser';
 
 
 const Contact = ({ data }) => {
@@ -75,45 +76,48 @@ const Contact = ({ data }) => {
               <ul>
                 {contactInfo.map((element, index) => (
                   <li key={index} data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">
-                    <div className="icon">
-                      <Icon icon={`bi:${element.icon}`} />
-                    </div>
-                    <div className="text">
-                      <label>{element.title}</label>
-                      <p>
-                        {element.text}
-                        <span>
-                          {element.contactLink &&
+                    {element.contactLink &&
                             <a
                             className="text-reset"
                             href={element.contactLink.includes('@') ?  'mailto:' + element.contactLink : 'https://' + element.contactLink}
                             target={!element.contactLink.includes('@') ?  '_target' : ''}
                           >
+                    <div className="icon">
+                      <Icon icon={element.icon === 'bluesky' ? `ri:bluesky-fill` : `bi:${element.icon}`} />
+                    </div>
+                    </a>
+                  }
+                  {element.contactLink &&
+                            <a
+                            className="text-reset"
+                            href={element.contactLink.includes('@') ?  'mailto:' + element.contactLink : 'https://' + element.contactLink}
+                            target={!element.contactLink.includes('@') ?  '_target' : ''}
+                          >
+                    <div className="text">
+                      <label>{element.title}</label>
+                      <p>
+                        {element.text}
+                        <span>
+                          
 
                               {element.contactLink}
-                            </a>
-                          }
+                            
                         </span>
                       </p>
                     </div>
+                    </a>
+                          }
                   </li>
                 ))}
               </ul>
-              <div className="google-map" data-aos="fade-up" data-aos-duration="800" data-aos-delay="500">
-                <div className="ratio ratio-21x9">
-                  <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d34962.65512748419!2d-118.1904381992602!3d34.122369080338075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1729643291616!5m2!1sen!2sus"
-                    allowFullScreen=""
-                  />
-                </div>
-              </div>
+              
             </div>
           </div>
           <div className="col-lg-7 ps-xl-5">
             <div className="contact-form bg-g" data-aos="fade-left" data-aos-duration="800" data-aos-delay="800">
               <div className="contact-head">
                 <h4>{contactForm.title}</h4>
-                <p>{contactForm.text}</p>
+                <p>{perser(contactForm.text)}</p>
               </div>
               <form onSubmit={onSubmit} id="contact-form" method="POST">
                 <input type="hidden" name="from_name" value="Nathan Casarez" />
@@ -186,7 +190,7 @@ const Contact = ({ data }) => {
                         type="submit"
                         value="Send"
                       >
-                        {loading ? "Sending message..." : "Let's Get Started!"}
+                        {loading ? "Sending message..." : "Tell Me All About Your Project!"}
                       </button>
                     </div>
                   </div>

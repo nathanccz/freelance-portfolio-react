@@ -28,7 +28,7 @@ const About = ({ data }) => {
               <p>{perser(designation)}</p>
               <div className="btn-bar">
                 <ScrollLink to="contact" spy={true} className="px-btn">
-                  Contact Me
+                  Book a Free Consultation
                   <Icon icon="bi:arrow-up-right" /></ScrollLink>
               </div>
             </div>

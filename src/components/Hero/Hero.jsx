@@ -31,8 +31,8 @@ const Hero = ({ data }) => {
               <h1 data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">{perser(title)}</h1>
               <p className="lead" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">{perser(subTitle)}</p>
               <div className="btn-bar" data-aos="fade-up" data-aos-duration="800" data-aos-delay="500">
-                <ScrollLink to="contact" spy={true} className="px-btn">
-                  Get in Touch
+                <ScrollLink to="services" spy={true} className="px-btn">
+                  I Need a Website
                   <Icon icon="bi:arrow-up-right" /></ScrollLink>
               </div>
               <div className="info-bar" data-aos="fade-up" data-aos-duration="800" data-aos-delay="600">
