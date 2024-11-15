@@ -28,12 +28,12 @@
   "aboutData": {
     "aboutLeft": {
       "ImgLink": "/images/about-banner.jpg",
-      "name": "Nathan Casarez",
-      "designation": "<span>What Can I Help You With?</span>",
+      "name": "I'm Your Next Developer",
+      "designation": "<span>Agency Quality With a Personal Touch</span>",
       "resumeCv": "/Resume (Work in Progress).pdf"
     },
     "aboutRight": {
-      "aboutText": "I specialize in crafting extraordinary digital experiences that drive value for small businesses and individuals alike. Whether you're looking for a simple and cost-effective website, or a full-fledged web app with custom features, I offer a range of services to <strong>take your web presence to new heights.</strong>",
+      "aboutText": "<strong>Looking for a website that doesn’t just look good, but gives your business a competitive edge? </strong> I build modern, responsive websites with the high standards of a larger agency—without losing the personal touch that comes with working one-on-one. Whether you're a mom-and-pop shop or a scaling enterprise, I offer a range of services to fit your needs and your budget:",
       "services": [
         {
           "icon": "code",
@@ -64,7 +64,7 @@
         {
           "number": "7+",
           "meta": "Years <br /> of experience...",
-          "text": "With 7+ years of experience working in the web, I can support you at any stage in your project cycle, from planning and layout design to site deployment and beyond."
+          "text": "With 7+ years of experience delivering value to clients, I can support you at any stage in your project cycle, from planning and layout to site launch and beyond."
         },
         {
           "number": "8+",
@@ -82,8 +82,8 @@
       {
         "start": "2021",
         "end": "Present",
-        "title": "FULL-STACK WEB DEVELOPER",
-        "subtitle": "NathanCC Web Studio"
+        "title": "FOUNDER, LEAD DEVELOPER",
+        "subtitle": "Nathan Christopher Studio"
       },
       {
         "start": "2018",
@@ -105,7 +105,7 @@
       "heading": "Get a simple, straightforward website off the ground quickly.",
       "triger": "One",
       "imgLink": "/images/services-1.jpg",
-      "text": "My static website development services are perfect for creating simple, budget-friendly sites that can be developed and deployed swiftly. This is ideal for personal portfolios, landing pages and multi-page business websites. With every project, you'll get a fast, responsive website that deeply resonates with your target audience.<br/><br/> Need help setting up a domain name? I can secure your hosting solution based on the scale of your project and your budget. I'll also provide options for SSL/TLS certification so that your brand-new site meets the latest web security standards.<br/><br/> As an added service, you may opt for a monthly retainer if your website needs regular updates after launch."
+      "text": "Static websites are perfect for simple, budget-friendly sites that can be developed and deployed swiftly. This is ideal for personal portfolios, landing pages and multi-page business websites. With every project, you'll get a fast, responsive website that deeply resonates with your target audience. <br/><br/> Need help setting up a domain name? I can secure your hosting solution based on the scale of your project and your budget. I'll also provide options for SSL/TLS certification so that your brand-new site meets the latest web security standards.<br/><br/>As an added service, you may opt for a monthly retainer if your website needs regular updates after launch."
     },
     {
       "title": "E-commerce",
@@ -137,7 +137,7 @@
       "link": "https://bourbonsociety.netlify.app/",
       "paragraphList": [
         {
-          "text": "A full-stack web application built on React and Next.js. It features stunning restaurant and bar visuals, along with back-end functionality to capture dinner reservation data, blog comments and contact form submissions."
+          "text": "A full-stack web application built on React and Next.js. It features stunning restaurant visuals and swift user navigation, along with back-end functionality to capture dinner reservation data, blog comments and contact form submissions."
         }
       ]
     },
@@ -148,18 +148,18 @@
       "link": "https://galaxy-snapshot.netlify.app/",
       "paragraphList": [
         {
-          "text": "NASA is recognized around the world, but not everyone knows the full picture of what they do. This web app fetches data from NASA's APIs to offer a glimpse into the agency. It is built on HTML, CSS and client-side JavaScript."
+          "text": "NASA is recognized around the world, but not everyone knows the full picture of what they do. This web app fetches data from NASA's APIs to offer a glimpse into the agency. It is built on HTML, CSS and vanilla JavaScript."
         }
       ]
     },
     {
       "ImgLink": "/images/project-3.jpg",
       "subTitle": "Search engine app",
-      "title": "Now Streaming",
+      "title": "Now Playing",
       "link": "https://filmandtv.netlify.app/",
       "paragraphList": [
         {
-          "text": "This web app lets you search providers to find where certain titles are streaming for free or by subscription. It also features hundreds of smaller services that you can’t find through other search engines. Results are tailored to your general location."
+          "text": "This web app lets you search film and TV titles to see where they're streaming for free or by subscription. It fetches data from a robust streaming service API that features hundreds of smaller providers you can't find through Google or other major search engines. It's built on HTML, CSS and vanilla JavaScript."
         }
       ]
     },
@@ -367,7 +367,7 @@
     ],
     "contactForm": {
       "title": "Let's Build Something Great, Together",
-      "text": "Ready to kick-start an exciting new project? I'd love to chat about it. No cost, no commitment—just a <strong>free consultation</strong> to see how I can help."
+      "text": "Have an idea for an exciting new project? Let’s chat—no cost, no commitment. Reach out for a <strong>free consultation</strong> today!"
     }
   },
   "footerData": {

@@ -67,7 +67,7 @@ const Process = ({ data }) => {
                               </h5>
                               <h4 class="ezy__howitworks11-title fw-bold mb-3">Iterate on Layout</h4>
                               <p>
-                                Once the contract is signed, we'll set up ongoing meetings to decide on layout, design and content. You'll receive three templates or wireframes to choose from. Then, we'll iterate on your chosen layout until you're satisfied, <strong>up to two revisions</strong>.
+                                Once the contract is signed, we'll set up ongoing meetings to decide on layout, design and content. You'll receive three templates or wireframes to choose from. Then, we'll iterate on your chosen layout <strong>until you're satisfied</strong>.
                               </p>
                             </div>
                           </div>

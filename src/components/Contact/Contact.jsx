@@ -190,7 +190,7 @@ const Contact = ({ data }) => {
                         type="submit"
                         value="Send"
                       >
-                        {loading ? "Sending message..." : "Tell Me All About Your Project!"}
+                        {loading ? "Sending message..." : "Let's Connect!"}
                       </button>
                     </div>
                   </div>

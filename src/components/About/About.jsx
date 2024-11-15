@@ -55,7 +55,7 @@ const About = ({ data }) => {
                       <h6>{element.number}</h6>
                       <span>{perser(element.meta)}</span>
                     </div>
-                    <p className="lead">{perser(element.text)}</p>
+                    <p>{perser(element.text)}</p>
                   </div>
                 ))}
               </div>

@@ -650,11 +650,11 @@ a {
       margin-bottom: 45px;
     }
   }
-  @include down-md {
-    .row.gy-5 {
-      flex-direction: column-reverse;
-    }
-  }
+  // @include down-md {
+  //   .row.gy-5 {
+  //     flex-direction: column-reverse;
+  //   }
+  // }
 }
 .contact-form {
   padding: 50px;
