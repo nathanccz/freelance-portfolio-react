@@ -4,7 +4,7 @@
     "logoLight": "/images/logo-light.svg"
   },
   "heroData": {
-    "title": "Hi, I'm<br /> <b>Nathan</b> <span><br />Casarez...</span>",
+    "title": "Hi, I'm<br /> <b>Nathan</b> 👋<span><br />Casarez...</span>",
     "subTitle": "A full-stack web developer <br> based in <span>Los Angeles, CA</span>",
     "ImgLink": "/images/home-banner.jpg",
     "phone": "+123 45 666 7788",
@@ -28,12 +28,12 @@
   "aboutData": {
     "aboutLeft": {
       "ImgLink": "/images/about-banner.jpg",
-      "name": "I'm Your Next Developer",
+      "name": "Your Next Developer",
       "designation": "<span>Agency Quality With a Personal Touch</span>",
       "resumeCv": "/Resume (Work in Progress).pdf"
     },
     "aboutRight": {
-      "aboutText": "<strong>Looking for a website that doesn’t just look good, but gives your business a competitive edge? </strong> I build modern, responsive websites with the high standards of a larger agency—without losing the personal touch that comes with working one-on-one. Whether you're a mom-and-pop shop or a scaling enterprise, I offer a range of services to fit your needs and your budget:",
+      "aboutText": "<strong>Looking for a online presence that gives your business a competitive edge? </strong> I build modern, responsive websites and web apps that look great, perform seamlessly, and help businesses grow. Whether you're a mom-and-pop shop or a scaling enterprise, I offer a range of services to fit your needs and your budget:",
       "services": [
         {
           "icon": "code",
@@ -82,19 +82,19 @@
       {
         "start": "2021",
         "end": "Present",
-        "title": "FOUNDER, LEAD DEVELOPER",
+        "title": "FOUNDER & LEAD DEVELOPER",
         "subtitle": "Nathan Christopher Studio"
       },
       {
         "start": "2018",
         "end": "2020",
-        "title": "CLIENT TECHNOLOGY LEAD",
+        "title": "DATA MANAGER, CLIENT TECHNOLOGY",
         "subtitle": "Buck, a Gallagher Company"
       },
       {
         "start": "2014",
         "end": "2018",
-        "title": "COMMUNICATIONS ASSOCIATE",
+        "title": "COPYWRITER, COMMUNICATIONS",
         "subtitle": "Buck, a Gallagher Company"
       }
     ]
@@ -105,7 +105,7 @@
       "heading": "Get a simple, straightforward website off the ground quickly.",
       "triger": "One",
       "imgLink": "/images/services-1.jpg",
-      "text": "Static websites are perfect for simple, budget-friendly sites that can be developed and deployed swiftly. This is ideal for personal portfolios, landing pages and multi-page business websites. With every project, you'll get a fast, responsive website that deeply resonates with your target audience. <br/><br/> Need help setting up a domain name? I can secure your hosting solution based on the scale of your project and your budget. I'll also provide options for SSL/TLS certification so that your brand-new site meets the latest web security standards.<br/><br/>As an added service, you may opt for a monthly retainer if your website needs regular updates after launch."
+      "text": "Static websites are simple, cost-effective sites that can be developed and deployed swiftly. These are perfect for personal portfolios, landing pages or business websites. I ensure every project delivers a fast, responsive design that looks great on any device, boosts your visibility on search engines, and elevates your brand. <br/><br/> Need domain setup or hosting advice? I’ll tailor solutions to your project’s scale and budget, including SSL/TLS security. After launch, you may opt for a maintenance plan to keep your site fresh and secure."
     },
     {
       "title": "E-commerce",

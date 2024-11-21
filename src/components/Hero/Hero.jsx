@@ -36,8 +36,8 @@ const Hero = ({ data }) => {
                   <Icon icon="bi:arrow-up-right" /></ScrollLink>
               </div>
               <div className="info-bar" data-aos="fade-up" data-aos-duration="800" data-aos-delay="600">
-                <p><Icon icon="bi-github" /><span>github.com/nathanccz</span></p>
-                <p><Icon icon="bi-envelope" /><span>{email}</span></p>
+                {/*<p><Icon icon="bi-github" /><span><a href='https://github.com/nathanccz'>github.com/nathanccz</a></span></p>*/}
+                <p><Icon icon="bi-envelope" /><span><a href='mailto:nathanweb.dev@proton.me'>{email}</a></span></p>
               </div>
             </div>
           </div>
