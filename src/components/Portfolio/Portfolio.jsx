@@ -37,7 +37,9 @@ const Portfolio = ({ data }) => {
                     </div>
                     <div className="work-text">
                       <h6>{element.subTitle}</h6>
-                      <h4>{element.title}</h4>
+                      <a onClick={() => getData(element.ImgLink, element.title, element.subTitle, element.paragraphList, element.link)}>
+                        <h4>{element.title}</h4>
+                      </a>
                       <div className="btn-bar">
                         <a className="gallery-link" onClick={() => getData(element.ImgLink, element.title, element.subTitle, element.paragraphList, element.link)}>
                           <Icon icon="bi:arrow-up-right" />

@@ -81,7 +81,7 @@ const Contact = ({ data }) => {
                             className="text-reset"
                             href={element.contactLink.includes('@') ?  'mailto:' + element.contactLink : 'https://' + element.contactLink}
                             target={!element.contactLink.includes('@') ?  '_target' : ''}
-                          >
+                          > 
                     <div className="icon">
                       <Icon icon={element.icon === 'bluesky' ? `ri:bluesky-fill` : `bi:${element.icon}`} />
                     </div>
@@ -98,9 +98,8 @@ const Contact = ({ data }) => {
                       <p>
                         {element.text}
                         <span>
-                          
 
-                              {element.contactLink}
+                              {element.icon === 'bluesky' ? 'nathancasarez.bsky.social' : element.contactLink}
                             
                         </span>
                       </p>

@@ -253,22 +253,28 @@ a {
     }
   }
 
-  blockquote {
+  .skill-icons {
     background: rgba(var(--px-white-rgb), 0.05);
     padding: 25px;
     border-radius: 10px;
     position: relative;
     display: flex;
+    justify-content: space-between;
+    gap: 1rem;
     margin: 15px 0 0;
     @include down-sm {
       padding: 20px;
     }
     svg {
-      font-size: 80px;
+      font-size: 65px;
       color: rgba(var(--px-white-rgb), 0.5);
+      transition: transform 0.4s;
       @include down-sm {
         font-size: 40px;
       }
+    }
+    svg:hover {
+      transform: scale(1.25)
     }
     p {
       align-content: center;
@@ -483,11 +489,19 @@ a {
   .work-img {
     flex: 0 0 40%;
     width: 40%;
+    height: 100%;
+    overflow: hidden;
     cursor: pointer;
     @include down-sm {
       flex: 0 0 100%;
       width: 100%;
     }
+  }
+  .work-img img {
+    transition: transform 1.25s ease;
+  }
+  .work-img:hover img {
+    transform: scale(1.2)
   }
   .work-text {
     flex: 0 0 60%;
@@ -496,6 +510,7 @@ a {
     padding-right: 8%;
     display: flex;
     flex-direction: column;
+    cursor: pointer;
     @include down-sm {
       flex: 0 0 100%;
       width: 100%;

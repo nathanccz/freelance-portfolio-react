@@ -59,10 +59,15 @@ const About = ({ data }) => {
                   </div>
                 ))}
               </div>
-              <blockquote>
-                <Icon icon="fa6-solid:quote-left" />
-                <p>{perser(note)}</p>
-              </blockquote>
+              <div className="skill-icons">
+                <Icon icon="skill-icons:html" />
+                <Icon icon="skill-icons:tailwindcss-dark" />
+                <Icon icon="skill-icons:javascript" />
+                <Icon icon="skill-icons:react-dark" />
+                <Icon icon="skill-icons:nodejs-dark" />
+                <Icon icon="skill-icons:mongodb" />
+                <Icon icon="skill-icons:postgresql-dark" />
+              </div>
             </div>
           </div>
         </div>

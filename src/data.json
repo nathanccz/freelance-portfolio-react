@@ -33,7 +33,7 @@
       "resumeCv": "/Resume (Work in Progress).pdf"
     },
     "aboutRight": {
-      "aboutText": "<strong>Looking for a online presence that gives your business a competitive edge? </strong> I build modern, responsive websites and web apps that look great, perform seamlessly, and help businesses grow. Whether you're a mom-and-pop shop or a scaling enterprise, I offer a range of services to fit your needs and your budget:",
+      "aboutText": "<strong>Need an online presence that gives your business a competitive edge? </strong> I build modern, responsive websites and web apps that look great, perform seamlessly, and help businesses grow. Whether you're a mom-and-pop shop or an entrepreneur with the next big idea, I'm here to take your web presence to new heights. I've got a range of services tailored to your needs and budget:",
       "services": [
         {
           "icon": "code",
@@ -82,13 +82,13 @@
       {
         "start": "2021",
         "end": "Present",
-        "title": "FOUNDER & LEAD DEVELOPER",
+        "title": "LEAD WEB DEVELOPER",
         "subtitle": "Nathan Christopher Studio"
       },
       {
         "start": "2018",
         "end": "2020",
-        "title": "DATA MANAGER, CLIENT TECHNOLOGY",
+        "title": "WEB MANAGER, CLIENT TECHNOLOGY",
         "subtitle": "Buck, a Gallagher Company"
       },
       {
