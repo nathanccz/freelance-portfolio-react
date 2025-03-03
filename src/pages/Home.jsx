@@ -17,7 +17,7 @@ const Home = () => {
       <main className="wrapper">
         <Hero data={heroData} />
         <About data={aboutData} />
-        <Experience data={experienceData} />
+        {/* <Experience data={experienceData} /> */}
         <Service data={serviceData} />
         <Portfolio data={portfolioData} />
         <Process data={blogData} />

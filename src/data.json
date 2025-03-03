@@ -5,11 +5,12 @@
   },
   "heroData": {
     "title": "Hi, I'm<br /> <b>Nathan</b> 👋<span><br />Casarez...</span>",
-    "subTitle": "A full-stack web developer <br> based in <span>Los Angeles, CA</span>",
+    "subTitle": "A <span>full-stack web developer</span> <br> based in Los Angeles, CA",
     "ImgLink": "/images/home-banner.jpg",
     "phone": "+123 45 666 7788",
     "email": "nathanweb.dev@proton.me",
     "btnText": "Work with me",
+    "avatar": "/images/avatar.jpg",
     "socialData": [
       {
         "link": "https://github.com/nathanccz",
@@ -33,7 +34,7 @@
       "resumeCv": "/Resume (Work in Progress).pdf"
     },
     "aboutRight": {
-      "aboutText": "<strong>Need an online presence that gives your business a competitive edge? </strong> I build modern, responsive websites and web apps that look great, perform seamlessly, and help businesses grow. Whether you're a mom-and-pop shop or an entrepreneur with the next big idea, I'm here to take your web presence to new heights. I've got a range of services tailored to your needs and budget:",
+      "aboutText": "<strong>Need an online presence that helps your business stand out? </strong> I build modern, responsive websites and web apps that look great, work seamlessly, and help businesses grow. Whether you're a local business or a startup with the next big idea,  I'll help you create a web experience that connects with your audience—and gets results. My services include:",
       "services": [
         {
           "icon": "code",
@@ -148,7 +149,7 @@
       "link": "https://galaxy-snapshot.netlify.app/",
       "paragraphList": [
         {
-          "text": "<strong>NASA is recognized around the world, but not everyone gets the full picture of what they do. </strong>This web app harnesses NASA's APIs to offer a glimpse into the agency, helping everyday users connect with their cutting-edge research. It transforms highly technical project summaries into short, engaging articles, all powered by a custom REST API built specifically for this app.<br><br> <strong>Technologies used:</strong> React, Vite, Tailwind CSS, DaisyUI, Node.js, plus GSAP to recreate ChatGPT-style text animation."
+          "text": "<strong>NASA is recognized around the world, few truly grasp the full scope of its work. </strong>This web app harnesses NASA's APIs to offer a glimpse into the agency, helping everyday users connect with their cutting-edge research. It transforms highly technical project summaries into short, engaging articles, all powered by a custom REST API built specifically for this app.<br><br> <strong>Technologies used:</strong> React, Vite, Tailwind CSS, DaisyUI, Node.js, plus GSAP to recreate ChatGPT-style text animation."
         }
       ]
     },
@@ -366,8 +367,8 @@
       }
     ],
     "contactForm": {
-      "title": "Let's Build Something Great, Together",
-      "text": "Have an idea for an exciting new project? Let’s chat—no cost, no commitment. Reach out for a <strong>free consultation</strong> today!"
+      "title": "Book a Free Consultation",
+      "text": "Have an idea for an exciting new project? Let’s chat—no cost, no commitment. I look forward to hearing from you!"
     }
   },
   "footerData": {

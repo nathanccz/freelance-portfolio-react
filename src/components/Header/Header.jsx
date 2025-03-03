@@ -6,7 +6,7 @@ import { Link as ScrollLink } from 'react-scroll';
 import { socialData } from '../../data.json';
 
 const Header = ({ data }) => {
-  const { logoDark, logoLight } = data;
+  const { logoDark, logoLight, avatar } = data;
 
   const [mobileToggle, setMobileToggle] = useState(false);
 

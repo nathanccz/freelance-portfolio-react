@@ -45,8 +45,20 @@ a {
       width: 45vw;
     }
   }
+  .avatar {
+		margin: 25px 0 15px 0px;
+		overflow: hidden;
+		height: 100px;
+		width: 100px;
+		border-radius: 100%;
+	}
+
+	.avatar img {
+		scale: 1.2;
+		margin-top: 7px;
+	}
   .hb-text {
-    padding: 100px 0;
+    padding: 100px 0 100px 0;
     position: relative;
     z-index: 1;
     h1 {
@@ -107,6 +119,14 @@ a {
         color: white;
       }
     }
+    .btn-container {
+      display: flex;
+      gap: 7px;
+      @include down-sm {
+        flex-direction: column;
+      }
+    }
+   
   }
   .social-fix {
     position: absolute;

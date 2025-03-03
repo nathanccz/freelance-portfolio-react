@@ -10,9 +10,9 @@ const About = ({ data }) => {
   const { aboutText, services, archivement, note } = aboutRight;
 
   return (
-    <section id="about" className="section about-section">
+    <section id="about" className="section about-section bg-dark">
       <div className="container">
-        <SectionHeading title="WELCOME TO MY PORTFOLIO" subTitle="Nice to meet you!" />
+        <SectionHeading title="HOW CAN I HELP YOu?" subTitle="Welcome to my porfolio!" />
         <div
           className="row gy-4"
           data-aos="fade-up"
@@ -28,7 +28,7 @@ const About = ({ data }) => {
               <p>{perser(designation)}</p>
               <div className="btn-bar">
                 <ScrollLink to="contact" spy={true} className="px-btn">
-                  Book a Free Consultation
+                  Schedule a Free Call
                   <Icon icon="bi:arrow-up-right" /></ScrollLink>
               </div>
             </div>
